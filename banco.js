@@ -1,0 +1,7 @@
+export const banco = [
+  {id:0, titulo:"Calabresa", descricao:"macia, bem assada, suave", preco: "R$ 35,00", img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkmXinYstQNCEV5T5WCdTxn4vO-p5kR844Sg&usqp=CAU', ingredientes:"Ovo, tomate, queijo parmesão, orégano, calabresa, cebola"},
+  {id:1, titulo:"Mussarela", descricao:"elástica, fácil de ser dobrada pela metade", preco: "R$ 35,00", img: 'https://www.anamariabrogui.com.br/assets/uploads/receitas/fotos/usuario-1932-5a1b7911dfda6e3c351c30de564da267.jpg', ingredientes:"mussarela, orégano, tomate"},
+  {id:2, titulo:"Portuguesa", descricao:"bordas elevadas douradas", preco: "R$ 35,00", img: 'https://res.cloudinary.com/mrancho/cardapio/2016/06/pizza-portuguesa_min.jpg', ingredientes: "mussarela, presunto, tomate, ovo, azeitona, cebola"},
+  {id:3, titulo:"Quatro Queijos", descricao:"uma pizza deliciosa quatro queijos", preco: "R$ 35,00", img: 'https://a-static.mlcdn.com.br/1500x1500/pizza-quatro-queijos-saborosa-e-caprichada/restauranteepizzariasensacao/4bb3c9cabdbc11eba9914201ac18500e/147dae5246b08a5fce86b974ae2fb6df.jpeg', ingredientes:"mussarela, gorgonzola, parmesão, provolone, orégano"},
+  {id:4, titulo:"Nordestina", descricao:"uma pizza de fermentação natural e forno a lenha", preco: "R$ 35,00", img: 'https://media-cdn.tripadvisor.com/media/photo-s/16/77/4b/7b/20190214-182028-largejpg.jpg', ingredientes:"Cebola, alho, pimentão, sal, coentro, carne de sol, azeitona, orégano, queijo coalho, tomate"},
+]
