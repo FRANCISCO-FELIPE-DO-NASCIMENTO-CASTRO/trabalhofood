@@ -1,5 +1,5 @@
 {
-"banco" = [
+"banco" : [
   {id:0, titulo:"Calabresa", descricao:"macia, bem assada, suave", preco: "R$ 35,00", img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkmXinYstQNCEV5T5WCdTxn4vO-p5kR844Sg&usqp=CAU', ingredientes:"Ovo, tomate, queijo parmesão, orégano, calabresa, cebola"},
   {id:1, titulo:"Mussarela", descricao:"elástica, fácil de ser dobrada pela metade", preco: "R$ 35,00", img: 'https://www.anamariabrogui.com.br/assets/uploads/receitas/fotos/usuario-1932-5a1b7911dfda6e3c351c30de564da267.jpg', ingredientes:"mussarela, orégano, tomate"},
   {id:2, titulo:"Portuguesa", descricao:"bordas elevadas douradas", preco: "R$ 35,00", img: 'https://res.cloudinary.com/mrancho/cardapio/2016/06/pizza-portuguesa_min.jpg', ingredientes: "mussarela, presunto, tomate, ovo, azeitona, cebola"},
